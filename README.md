@@ -1,4 +1,4 @@
-### Oi eu sou Eduardo Victor, desenvolvedor BackEnd Junior
+### Oi eu sou Eduardo Victor, desenvolvedor BackEnd
 
 <div align="center">
   <a href="https://github.com/xfire741">
